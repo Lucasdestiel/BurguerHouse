@@ -1,7 +1,6 @@
 # projeto preview
 <img width="1240" height="3658" alt="Captura de tela_16-11-2026_20029_127 0 0 1" src="https://github.com/user-attachments/assets/cae06689-b418-475a-96f5-fac75dfc544a" />
-<img width="1240" height="3658" alt="Captura de tela_16-11-2026_2011_127 0 0 1" src="https://github.com/user-attachments/assets/a64ff99a-c78d-49ee-b610-54146911bd7c" />
-<img width="1240" height="3699" alt="Captura de tela_16-11-2026_20127_127 0 0 1" src="https://github.com/user-attachments/assets/d4d0fa44-757e-469e-8fe1-ada38171651c" />
+
 
 
 # Burger House — Cardápio digital
